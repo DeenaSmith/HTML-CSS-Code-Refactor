@@ -4,9 +4,28 @@
     margin: 0;
 }
 
-body {
-    background-color: #d9dcd6;
+/*  Global Anchor, P, and Floats */
+
+a {
+    color: #ffffff;
+    text-decoration: none;
 }
+
+p {
+    font-size: 16px;
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+/* Header/Nav Styling Start */
 
 .header {
     padding: 20px;
@@ -41,14 +60,7 @@ body {
     margin-left: 25px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
+/*  Hero Styling Start */
 
 .hero {
     height: 800px;
@@ -59,20 +71,35 @@ p {
     background-position: center;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
+/*  Body Styling Start */
 
-.float-right {
-    float: right;
-    margin-left: 25px;
+
+body {
+    background-color: #d9dcd6;
 }
 
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+}
+
+.body-content {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.body-content img {
+    max-height: 200px;
+}
+
+.body-content h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
 }
 
 .benefits {
@@ -102,23 +129,7 @@ p {
     max-width: 150px;
 }
 
-.body-content {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.body-content img {
-    max-height: 200px;
-}
-
-.body-content h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
+/*  Footer Styling Start */
 
 .footer {
     padding: 30px;
