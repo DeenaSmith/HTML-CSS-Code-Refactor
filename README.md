@@ -17,3 +17,7 @@ UTSA Challenge 1
   2. Comments added
   3. Code moved to resemble logical structure
   4. Adjusted titles accordingly to account for HTML changes
+  
+![read_me_horiseon_1](https://user-images.githubusercontent.com/98545911/153030207-54858ec5-5156-47e7-a6eb-7130072280df.png)
+![read_me_horiseon_2](https://user-images.githubusercontent.com/98545911/153031332-047ee3bc-f59c-4acf-b6ff-ade9526b1d82.png)
+![read_me_horiseon_3](https://user-images.githubusercontent.com/98545911/153033637-5b9f5139-b069-4142-8367-f794b546b50e.jpeg)
